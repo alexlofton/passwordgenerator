@@ -1,6 +1,6 @@
 # Randomized Password Generator
-<center><h1>https://alexlofton.github.io/passwordgenerator/</h1></center><br>
 <h1>This application will give you a randomized password unsing the information the user provides.</h1><br>
+<h2>https://alexlofton.github.io/passwordgenerator/</h2><br>
 The user will provide the desired length of password and if the password should contain or not contain uppercase letters, lowercase letters, numbers, and symbols.
 <h2>Instructions</h2><br>
 1. Click Generate Password and follow the prompts<br>
