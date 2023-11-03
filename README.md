@@ -1,7 +1,7 @@
 # Randomized Password Generator
 <h2>Click here to generate a new password:<br>
 https://alexlofton.github.io/passwordgenerator/</h2>
-The user will provide the desired length of password and if the password should contain or not contain uppercase letters, lowercase letters, numbers, and symbols to received a new randomized password.
+The user id to provide the desired length of password and if the password should contain or not contain uppercase letters, lowercase letters, numbers, and symbols. Then the use will receive a new randomized password.
 <h2>Instructions</h2><br>
 1. Click Generate Password and follow the prompts<br>
 <img width="771" alt="pw1" src="https://github.com/alexlofton/passwordgenerator/assets/147463152/9967b15c-8cf3-4439-81db-b4e8cc4382cf"><br>
