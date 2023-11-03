@@ -6,7 +6,7 @@ https://alexlofton.github.io/passwordgenerator/</h2>
 <br>
 - Then the user will receive a newly generated randomized password.
 <h1>Instructions</h1><br>
-1. Click Generate Password and follow the prompts<br>
+1. Click 'Generate Password' button and follow the prompts<br>
 <img width="785" alt="pw4" src="https://github.com/alexlofton/passwordgenerator/assets/147463152/5ded20cd-4bac-4553-9581-dc4975b9d08e"><br>
 <br>
 2. Choose the desired length of your password between 8-128 characters<br>
