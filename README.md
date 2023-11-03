@@ -5,7 +5,7 @@ https://alexlofton.github.io/passwordgenerator/</h2>
 - When the user provides the desired length of password, if the password should contain or not contain uppercase letters, lowercase letters, numbers, and symbols.<br>
 <br>
 - Then the user will receive a newly generated randomized password.
-<h1>Instructions</h1><br>
+<h1>Instructions</h1>
 1. Click 'Generate Password' button and follow the prompts<br>
 <img width="785" alt="pw4" src="https://github.com/alexlofton/passwordgenerator/assets/147463152/5ded20cd-4bac-4553-9581-dc4975b9d08e"><br>
 <br>
