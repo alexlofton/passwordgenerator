@@ -17,6 +17,6 @@ https://alexlofton.github.io/passwordgenerator/</h2>
 3. Choose what you would like your password to contain<br>
 <img width="768" alt="pw2" src="https://github.com/alexlofton/passwordgenerator/assets/147463152/c390a376-3c23-4420-bb51-9ec8ca782a76"><br>
 <br>
+4. Copy and save your new password!<br>
 <img width="767" alt="pw3" src="https://github.com/alexlofton/passwordgenerator/assets/147463152/011f3157-e77d-4acc-9bec-97b2d898442a"><br>
 <br>
-4. Copy and save your new password!<br>
