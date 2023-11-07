@@ -7,7 +7,6 @@ function writePassword() {
 
   var length = Number(prompt("Choose length of password between 8-128 characters."))
 
-  // var charType = prompt(("What should your password include? Enter 'uppercase, lowercase, numbers, symbols' to include in your password."))
 
   var charTypeMsg = "What should your password include? Enter 'uppercase, lowercase, numbers, symbols' to include in your password."
 
@@ -17,13 +16,11 @@ function writePassword() {
     if (length >= maxLength){
       msg="The password must contain 128 characters or less";
       alert(msg);
-      console.log('checking if greater than 128')
       return false;
     }
     else if(length <= minLength) {
       msg="The password must contain at least 8 characters: "
       alert(msg);
-      console.log('checking if less than 8')
       return false;
     } else {
       var charType = prompt(charTypeMsg)
@@ -46,8 +43,6 @@ function writePassword() {
       charSet += charGen[charTypes[i]];
     }
     
-    console.log(charSet);
-
     var retVal = "";
     
     for (var i = 0; i < length; i++) {
