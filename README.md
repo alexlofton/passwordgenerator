@@ -20,4 +20,3 @@ https://alexlofton.github.io/passwordgenerator/</h2>
 <img width="767" alt="pw3" src="https://github.com/alexlofton/passwordgenerator/assets/147463152/011f3157-e77d-4acc-9bec-97b2d898442a"><br>
 <br>
 4. Copy and save your new password!<br>
->>>>>>> 92e186a8fc168885fd73feb4bc19840cbcfd8ac6
